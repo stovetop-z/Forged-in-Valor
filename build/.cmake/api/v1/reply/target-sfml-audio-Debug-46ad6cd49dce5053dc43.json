@@ -365,6 +365,10 @@
 	[
 		{
 			"backtrace" : 4,
+			"id" : "sfml-system::@8cb1db2982443611e568"
+		},
+		{
+			"backtrace" : 4,
 			"id" : "ogg::@4e5ed7d02827854e35f8"
 		},
 		{
@@ -382,10 +386,6 @@
 		{
 			"backtrace" : 4,
 			"id" : "vorbisfile::@692b0ee2b61df6760d20"
-		},
-		{
-			"backtrace" : 4,
-			"id" : "sfml-system::@8cb1db2982443611e568"
 		}
 	],
 	"folder" : 

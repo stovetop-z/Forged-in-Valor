@@ -10,4 +10,9 @@ struct ColliderComponent
     V2 offset{0.0f, 0.0f};
     bool isTrigger = false;
 };
+
+struct AABB
+{
+    V2 min, max;
+};
 #endif

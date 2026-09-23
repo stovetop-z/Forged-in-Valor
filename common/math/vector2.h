@@ -26,5 +26,11 @@ struct V2
     }
 
     float length() const { return std::sqrt(x * x + y * y);}
+
+    V2 normalized() 
+    { 
+        float len = length();
+        return {x / len, y / len};
+    }
 };
 #endif

@@ -22,7 +22,7 @@ namespace filing
 
         uint8_t layer = 0;
         uint8_t size = 0;
-        uint8_t id = 0;
+        uint8_t id = 0; 
         uint8_t physics = 0;
         uint16_t x = 0;
         uint16_t y = 0;
@@ -76,4 +76,4 @@ namespace filing
     }
 }
 
-#endif // FILING_H
+#endif 

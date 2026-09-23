@@ -5,6 +5,6 @@
 
 struct Appearance
 {
-    uint8_t id, anim_state;
+    uint8_t sprite_id, anim_state;
 };
 #endif
